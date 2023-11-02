@@ -1,0 +1,18 @@
+name: Quark Dark Mode
+slug: quark-dark-mode
+type: theme
+version: 0.1.0
+description: Extending Quark Theme to Add Dark Mode Feature
+icon: rebel
+author:
+  name: jadehawk
+  email: admin@techy-notes.com
+homepage: https://github.com/jadehawk/grav-theme-quark-dark-mode
+demo: http://demo.yoursite.com
+keywords: grav, theme, etc
+bugs: https://github.com/jadehawk/grav-theme-quark-dark-mode/issues
+readme: https://github.com/jadehawk/grav-theme-quark-dark-mode/blob/develop/README.md
+license: MIT
+
+dependencies:
+  - { name: grav, version: '>=1.6.0' }
