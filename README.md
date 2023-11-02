@@ -1,4 +1,4 @@
-This is my [Grav CMS](htt[s://grav.org) theme for my blog site that has Dark Mode enable.
+This is my [Grav CMS](https://grav.org) theme for my blog site that has Dark Mode enable.
 
 # Installation
 
